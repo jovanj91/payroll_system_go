@@ -17,7 +17,7 @@ A backend payroll system written in Go using the Gin framework and PostgreSQL. T
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Layer         | Technology            |
 |---------------|------------------------|
@@ -30,7 +30,7 @@ A backend payroll system written in Go using the Gin framework and PostgreSQL. T
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Project
 ```bash
